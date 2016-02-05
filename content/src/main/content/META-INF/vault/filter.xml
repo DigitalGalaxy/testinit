@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+  <filter root="/apps/testinit"/>
+  <filter root="/etc/map.publish" mode="update"/>
+  <filter root="/etc/designs/testinit/clientlibs"/>
+  <filter root="/etc/designs/testinit/Fonts"/>
+  <filter root="/etc/designs/testinit/images"/>  
+</workspaceFilter>

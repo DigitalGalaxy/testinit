@@ -1,0 +1,12 @@
+.project
+.classpath
+.settings/
+target/
+.vlt
+chromedriver.log
+.DS_Store
+bin/
+.idea/
+node_modules/
+atlassian-ide-plugin.xml
+*.iml
